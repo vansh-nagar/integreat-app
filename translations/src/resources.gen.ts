@@ -454,7 +454,7 @@ const resources = {
       "title": "Search and language",
       "description": "<strong>Search</strong> for local information, events and places or change the <strong>language</strong>."
     },
-    "additionalFeatures": {
+    "menu": {
       "title": "Additional features",
       "description": "Use further features here such as <strong>$t(categories:pdf.create)</strong>, <strong>$t(tts:title)</strong>, <strong>$t(share:title)</strong> and <strong>{{additionalFeature}}</strong>."
     },

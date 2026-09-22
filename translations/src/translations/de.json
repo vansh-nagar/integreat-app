@@ -452,7 +452,7 @@
       "title": "Suche und Sprache",
       "description": "<strong>Suche</strong> nach lokalen Informationen, Veranstaltungen und Orten oder ändere die <strong>Sprache</strong>."
     },
-    "additionalFeatures": {
+    "menu": {
       "title": "Weitere Funktionen",
       "description": "Nutze hier weitere Funktionen wie <strong>$t(categories:pdf.create)</strong>, <strong>$t(tts:title)</strong>, <strong>$t(share:title)</strong> und <strong>{{additionalFeature}}</strong>."
     },
